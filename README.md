@@ -4,7 +4,7 @@ My first repository
   <head> 
     <H1> **Favorite Movies** </H1><br>
   </head>
-  <body><bg color = black>
+  <body>
   
 1. *Ang Probinsyano* <br>
 2. *Juan De La Cruz*<br>
