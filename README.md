@@ -1,6 +1,7 @@
 # app-dev
 My first repository
 ### **Favorite Movies**
-1. *qwe*
-2. *asd*
-3. *zxc*
+1. *Ang Probinsyano*
+2. *Juan De La Cruz*
+3. *100 Days to Heaven*
+4. *joaquin bordado*
