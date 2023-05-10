@@ -3,7 +3,6 @@ My first repository
 
 <html>
   <head> 
-<title>My first Repository</title>
 <H1><b><center>Favorite Series</b></center></H1><br>
   </head>
   <body>
