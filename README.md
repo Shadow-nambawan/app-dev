@@ -4,4 +4,4 @@ My first repository
 1. *Ang Probinsyano*
 2. *Juan De La Cruz*
 3. *100 Days to Heaven*
-4. *joaquin bordado*
+4. *Joaquin Bordado*
